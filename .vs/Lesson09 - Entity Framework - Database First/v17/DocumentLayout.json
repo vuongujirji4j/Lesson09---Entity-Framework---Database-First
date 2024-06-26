@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\lesson09 - entity framework - database first\\lesson09 - entity framework - database first\\controllers\\pvvkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|solutionrelative:lesson09 - entity framework - database first\\controllers\\pvvkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\lesson09 - entity framework - database first\\lesson09 - entity framework - database first\\controllers\\nbtkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|solutionrelative:lesson09 - entity framework - database first\\controllers\\nbtkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\lesson09 - entity framework - database first\\lesson09 - entity framework - database first\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\lesson09 - entity framework - database first\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|solutionrelative:lesson09 - entity framework - database first\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\lesson09 - entity framework - database first\\lesson09 - entity framework - database first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\lesson09 - entity framework - database first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{715D95A3-8CD0-4293-9959-A272B35539D7}|Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First.csproj|solutionrelative:lesson09 - entity framework - database first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -33,18 +33,17 @@
               "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "Lesson09 - Entity Framework - Database First\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-26T03:18:41.688Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-06-26T03:18:41.688Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PvvKhoasController.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First\\Controllers\\PvvKhoasController.cs",
-              "RelativeDocumentMoniker": "Lesson09 - Entity Framework - Database First\\Controllers\\PvvKhoasController.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First\\Controllers\\PvvKhoasController.cs",
-              "RelativeToolTip": "Lesson09 - Entity Framework - Database First\\Controllers\\PvvKhoasController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAqwBEAAAAcAAAA",
+              "Title": "nbtKhoasController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First\\Controllers\\nbtKhoasController.cs",
+              "RelativeDocumentMoniker": "Lesson09 - Entity Framework - Database First\\Controllers\\nbtKhoasController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Lesson09 - Entity Framework - Database First\\Lesson09 - Entity Framework - Database First\\Controllers\\nbtKhoasController.cs",
+              "RelativeToolTip": "Lesson09 - Entity Framework - Database First\\Controllers\\nbtKhoasController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T03:15:43.099Z",
               "EditorCaption": ""
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Lesson09 - Entity Framework - Database First\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T02:37:55.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T02:37:55.9Z"
             }
           ]
         }

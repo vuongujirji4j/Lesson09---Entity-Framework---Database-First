@@ -130,7 +130,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\PvvKhoasController.cs" />
+    <Compile Include="Controllers\nbtKhoasController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -231,11 +231,11 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\PvvKhoas\Create.cshtml" />
-    <Content Include="Views\PvvKhoas\Delete.cshtml" />
-    <Content Include="Views\PvvKhoas\Details.cshtml" />
-    <Content Include="Views\PvvKhoas\Edit.cshtml" />
-    <Content Include="Views\PvvKhoas\Index.cshtml" />
+    <Content Include="Views\nbtKhoas\Create.cshtml" />
+    <Content Include="Views\nbtKhoas\Delete.cshtml" />
+    <Content Include="Views\nbtKhoas\Details.cshtml" />
+    <Content Include="Views\nbtKhoas\Edit.cshtml" />
+    <Content Include="Views\nbtKhoas\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
